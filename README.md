@@ -18,7 +18,7 @@
 - [Usage](#usage)
 - [Database](#database)
 - [Technologies](#technologies-used)
-- [API Endpoints](#documentation-api-orders)
+- [API Endpoints](#documentation)
 - [Contributing](#contributing)
 
 
@@ -52,9 +52,9 @@
 * Spring Batch
 * H2 Console
 
-## DOCUMENTATION API ORDERS
+## DOCUMENTATION API
 
-in progress
+- Check out the documentation, [click here](./DOCUMENTATION.md)
 
 
 ## Contributing
